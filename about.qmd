@@ -1,0 +1,33 @@
+---
+title: "About me"
+---
+
+## Background
+
+I hold a Bachelor's degree of
+
+**Science in Applied Statistics**
+
+with Computing.
+
+## Skills
+
+*R,Python*
+
+*Data visualization(ggplot, dashboards)*
+
+*Research and Hypothesis testing*
+
+*Statistical Modelling(Arima, Regression)*
+
+## Interests
+
+*Data Science*
+
+*Public health Analytics*
+
+*Business Performance Analytics*
+
+*Market Research*
+
+*Agriculture and Food systems*

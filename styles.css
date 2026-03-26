@@ -1,0 +1,26 @@
+/* css styles */
+main{
+  max-width: 950px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1{
+  color: #2c7be5;
+  font-weight: 700;
+}
+
+h2{
+  color: #333;
+  font-weight: 600;
+}
+
+
+body{
+  background-color: #f8f9fa;
+}
+
+
+
+
+

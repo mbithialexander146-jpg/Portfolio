@@ -1,0 +1,35 @@
+---
+title: "Projects"
+---
+
+## Youth unemployment rates
+
+![*`The nationwide trend of the unemployment rates`*](images/plot1.png){fig-align="center" width="512"}
+
+*Used to visualize Youth unemployment rates in Kenya by;*
+
+*Gender*
+
+*Area type*
+
+*Education status*
+
+*Education attendance*
+
+**Tools:** *Rstudio*
+
+**Packages:** *tidyverse, ggplot2*
+
+[View project](https://github.com/Albee03/Youth_unemployement)
+
+## Effectiveness of Various feed types on Chick Weights
+
+![*`Average weights of chicks by type of feed`*](images/Average%20weights.png){fig-align="center" width="500"}
+
+Aims at analyzing which types of feeds have great impact on newly chicks
+
+**Tools:** *Rstudio*
+
+**Packages:** *tidyverse, DT*
+
+[View project](https://rpubs.com/Drool_bee/1412511){style="green"}

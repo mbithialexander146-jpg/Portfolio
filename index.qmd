@@ -1,0 +1,31 @@
+---
+title: "Home"
+---
+
+# Welcome to Albee Analytics
+
+![](images/Screenshot_20250109-102200%20(2)-01.jpg){style="margin-bottom: 20px; object-fit: cover; border-radius: 50%;" fig-align="center" width="200"}
+
+Hello 👋, I am **Alexander Mbithi**, a data analyst
+
+specializing in:
+
+*Applied Statistics*
+
+*Data Visualization*
+
+*Time Series Analysis*
+
+*Reporting*
+
+I build data-driven solutions for
+
+real-world problems by transforming raw data
+
+into actionable , high-impact solutions.
+
+## Featured
+
+1.  Youth Unemployment rates in Kenya.
+
+2.  Chick Weights Analysis.

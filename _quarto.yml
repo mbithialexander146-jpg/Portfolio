@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: Projects.qmd
+        text: Projects
+      - href: Contacts.qmd
+        text: Contacts
+
+format:
+  html:
+    theme: flatly
+    page-layout: full
+    mainfont: "Roboto"
+    monofont: "Fira Code"
+    css: styles.css
+    toc: true
+
+editor: visual
+
+publish: 
+  provider: gh-pages
+
